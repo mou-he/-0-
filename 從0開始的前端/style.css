@@ -1,0 +1,23 @@
+.avatar {
+    width: 150px;
+}
+body{
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.card{
+width: 400px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: space-around;
+text-align: center;
+background-color: lightblue;
+color :#2b2839;
+/* 下面是底部线涂满 */
+border-bottom:5px solid purple;
+}
+.bluedot{
+    border: 1px dotted blue;
+}
